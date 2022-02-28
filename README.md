@@ -11,6 +11,17 @@
 
 ![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
 
+## Модификации от Константина Моренко
+
+- Поддержка поиска на русском
+- Темы
+  - Голубая
+- Перевод некоторых надписей
+- Шаблон счетчика Yandex.Metrika
+- Доступ к search-data.json принудительно направлен на HTTPS
+- Стиль с узкими колонками в таблице
+
+
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
